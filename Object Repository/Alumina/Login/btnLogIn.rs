@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btnLogIn</name>
+   <tag></tag>
+   <elementGuidId>f2dbd023-20ac-430f-9462-f980a20ac051</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@type = 'submit' and @class = 'login-button']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>aabfa41f-5d49-42f6-9a69-211e41ac09a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>login-button</value>
+      <webElementGuid>6725ebb0-b685-4245-9f4d-47dd3aee88b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>Text</name>
+      <type>Main</type>
+      <value>Login Now</value>
+      <webElementGuid>8d90c878-10d0-4941-a8b3-148fba4d6678</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>
