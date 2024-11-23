@@ -47,6 +47,11 @@ public class Login {
 	def static void loginIntoApplicationWithGlobalVariable(){
 		loginIntoApplication(GlobalVariable.urlLogin, GlobalVariable.username, GlobalVariable.password)
 	}
+	
+	@keyword 
+	def static void loginFailedSample() {
+		loginIntoApplication(GlobalVariable.urlLogin, "Lebron James", "I'm a failed password")
+	}
 
 	@Keyword
 	def static void logoutFromApplication(){
