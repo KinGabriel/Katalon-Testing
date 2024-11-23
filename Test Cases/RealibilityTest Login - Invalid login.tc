@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>RealibilityTest Login - Invalid login</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>03a26398-52ef-40ba-9c9c-4c4fb1c2edf4</testCaseGuid>
+</TestCaseEntity>

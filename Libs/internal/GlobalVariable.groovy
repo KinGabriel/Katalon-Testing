@@ -104,6 +104,11 @@ public class GlobalVariable {
      */
     public static Object lastName
      
+    /**
+     * <p></p>
+     */
+    public static Object baseUrl
+     
 
     static {
         try {
@@ -130,6 +135,7 @@ public class GlobalVariable {
             coupon = selectedVariables['coupon']
             firstName = selectedVariables['firstName']
             lastName = selectedVariables['lastName']
+            baseUrl = selectedVariables['baseUrl']
             
         } catch (Exception e) {
             TestCaseMain.logGlobalVariableError(e)
